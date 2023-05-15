@@ -1,0 +1,28 @@
+C:\Users\Ganon\AppData\Local\Programs\Python\Python310\python.exe C:\Users\Ganon\Downloads\Random\HackRU\main.py 
+hi chat! i have the following protocol for answering a customer calling with a technical problem with their router: .{'value': 'no internet', 'children': [{'value': 'Could you please check if the router is on, and the power led is blinking?', 'children': [{'value': 'no', 'children': [{'value': "Okay, turn on the router with the power button. It's at the bottom of the router. Is the power led on?", 'children': [{'value': 'no', 'children': [{'value': "Oh, that's a problem I can't solve. Please wait for my human colleague to connect"}]}, {'value': 'yes', 'children': [{'value': 'Great! does the internet work now?', 'children': [{'value': 'yes', 'children': [{'value': 'Great! if everything is working fine, you can disconnect now. Have a nice day!'}]}, {'value': 'no', 'children': [{'value': "Oh, that's a problem I can't solve. Please wait for my human colleague to connect"}]}]}]}]}]}, {'value': 'yes', 'children': [{'value': 'Try to turn off the router, wait five seconds and turn on the router. Is the internet still out?', 'children': [{'value': 'yes', 'children': [{'value': 'Great! if everything is working fine, you can disconnect now. Have a nice day!'}]}, {'value': 'no', 'children': [{'value': 'I see, which model of router do you have?', 'children': [{'value': 'model A1', 'children': [{'value': "Okay, in the front of your model there are two LEDs titled 'LAN' and 'internet'. please go to the router, and say aloud which LEDs are on and which are off", 'children': [{'value': 'LAN led is on, internet led is off', 'children': [{'value': 'Alright, this problem is a little too complicated for me. Please wait for my human colleague to answer'}]}, {'value': 'LAN led is off, internet led is on', 'children': [{'value': 'Alright, try to plug the cable in the back of the router to a different socket and check if the internet works now', 'children': [{'value': 'yes', 'children': [{'value': 'Great! if everything is working fine, you can disconnect now. Have a nice day!'}]}, {'value': 'no', 'children': [{'value': "Oh, that's a problem I can't solve. Please wait for my human colleague to connect"}]}]}]}]}]}]}]}]}]}]}]}.
+The customer said "I don't have internet", I said  "Could you please check if the router is on, and the power led is blinking?" 
+The customer said "no the power led isn't on", I said "Okay, turn on the router with the power button. It's at the bottom of the router. Is the power led on?" 
+The customer said "no the router is connected but the led is off". What Should I say to the customer according to the protocol?.
+Please answer in the format: 'value' : <reply> 
+ 'summary' : <summary of the conversation between me and the customer> $$$
+<OpenAIObject text_completion id=cmpl-7F6HeCwLBUsovnOd02CjegikQ1arE at 0x1d560b2f470> JSON: {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n'value': 'Alright, this problem is a little too complicated for me. Please wait for my human colleague to answer', \n'summary': The customer said that the router is connected but the power led is off, so I told them that the problem is too complicated for me and they should wait for a human colleague to answer."
+    }
+  ],
+  "created": 1683833430,
+  "id": "cmpl-7F6HeCwLBUsovnOd02CjegikQ1arE",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 749,
+    "total_tokens": 819
+  }
+}
+
+Process finished with exit code 0
