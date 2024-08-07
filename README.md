@@ -44,7 +44,6 @@ Merom is a cutting-edge virtual customer service agent designed to seamlessly bl
 
 ![17](https://github.com/user-attachments/assets/372895e1-fe1f-4412-8837-d39f11231c8c)
 
-![22](https://github.com/user-attachments/assets/b129339c-3237-49f4-bb26-7f2d97316b30)
 
 ![18](https://github.com/user-attachments/assets/a75265df-9939-4295-b691-427d4a054588)
 
@@ -55,6 +54,9 @@ Merom is a cutting-edge virtual customer service agent designed to seamlessly bl
 
 
 ![21](https://github.com/user-attachments/assets/b3f25522-5e09-4c3e-8165-d7da4895a9ea)
+
+![22](https://github.com/user-attachments/assets/b129339c-3237-49f4-bb26-7f2d97316b30)
+
 
 **Use Cases**
 
@@ -74,3 +76,5 @@ Merom is a cutting-edge virtual customer service agent designed to seamlessly bl
 - **Human-Like Touch:** Unlike traditional bots, Merom sounds and acts like a human, providing a more engaging and satisfactory customer experience.
 - **Ease of Use:** Customers interact with Merom as they would with a human agent, requiring no special training or adaptation.
 - **Data Optimization:** Continuously gathers and analyzes data to improve its responses and provide valuable insights to businesses.
+
+  
