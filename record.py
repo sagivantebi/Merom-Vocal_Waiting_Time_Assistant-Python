@@ -7,7 +7,7 @@ import sys
 import queue
 
 # Set your OpenAI API key
-openai.api_key = "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 "
+openai.api_key = API_KEY
 
 # Record audio
 def record_audio(filename, stop_event, audio_queue):
