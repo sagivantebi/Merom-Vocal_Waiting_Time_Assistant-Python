@@ -34,6 +34,17 @@ Merom is a cutting-edge virtual customer service agent designed to seamlessly bl
 
 ---
 
+
+![22](https://github.com/user-attachments/assets/b129339c-3237-49f4-bb26-7f2d97316b30)
+![21](https://github.com/user-attachments/assets/b3f25522-5e09-4c3e-8165-d7da4895a9ea)
+![20](https://github.com/user-attachments/assets/6756f610-627f-40b7-aa56-9f5863170c71)
+![19](https://github.com/user-attachments/assets/8a1e062a-d380-4ad1-9483-c0172e8b6a7e)
+![18](https://github.com/user-attachments/assets/a75265df-9939-4295-b691-427d4a054588)
+![17](https://github.com/user-attachments/assets/372895e1-fe1f-4412-8837-d39f11231c8c)
+![16](https://github.com/user-attachments/assets/ff8c92b6-8379-46c7-92d1-c94d3780527a)
+![14](https://github.com/user-attachments/assets/2a5ee4b4-3f60-4178-bc77-511ef642c6c2)
+![13](https://github.com/user-attachments/assets/7c3d1fa2-e586-4dbf-bd57-2cd1968d8387)
+
 **Use Cases**
 
 1. **Enhanced Customer Experience:**
