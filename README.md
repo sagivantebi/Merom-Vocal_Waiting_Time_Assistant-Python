@@ -1,6 +1,6 @@
-# Merom - Virtual Agent for People Who Don't Know They Need a BOT
+# Merom - GPT-Powered Virtual Customer Service Agent
 
-![15](https://github.com/user-attachments/assets/4ef527ec-e92b-4bc5-bad2-1ec2e97badba)
+![1](https://github.com/user-attachments/assets/51c61f27-e5bd-40be-a5b1-600579db00d8)
 
 ---
 
@@ -39,6 +39,9 @@ Merom is a cutting-edge virtual customer service agent designed to seamlessly bl
 ![13](https://github.com/user-attachments/assets/7c3d1fa2-e586-4dbf-bd57-2cd1968d8387)
 
 ![14](https://github.com/user-attachments/assets/2a5ee4b4-3f60-4178-bc77-511ef642c6c2)
+
+![15](https://github.com/user-attachments/assets/4ef527ec-e92b-4bc5-bad2-1ec2e97badba)
+
 
 ![16](https://github.com/user-attachments/assets/ff8c92b6-8379-46c7-92d1-c94d3780527a)
 
