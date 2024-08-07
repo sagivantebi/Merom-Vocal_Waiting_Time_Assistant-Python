@@ -1,12 +1,12 @@
 # Merom - Virtual Agent for People Who Don't Know They Need a BOT
 
-**HackRU - Hackathon of Reichman University**
+![25](https://github.com/user-attachments/assets/92a75c45-3f34-4863-962b-3d8092105804)
 
 ---
 
 **Overview**
 
-Merom is a cutting-edge virtual customer service agent designed to seamlessly blend AI efficiency with a human touch, addressing common customer service issues in a cost-effective and efficient manner. Developed during the HackRU Hackathon at Reichman University, Merom leverages advanced AI tools to create an intelligent, responsive, and user-friendly virtual assistant.
+Merom is a cutting-edge virtual customer service agent designed to seamlessly blend AI efficiency with a human touch, addressing common customer service issues in a cost-effective and efficient manner. 
 
 ---
 
