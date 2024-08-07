@@ -1,6 +1,6 @@
 # Merom - Virtual Agent for People Who Don't Know They Need a BOT
 
-![25](https://github.com/user-attachments/assets/92a75c45-3f34-4863-962b-3d8092105804)
+![15](https://github.com/user-attachments/assets/4ef527ec-e92b-4bc5-bad2-1ec2e97badba)
 
 ---
 
